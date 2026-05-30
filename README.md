@@ -74,6 +74,8 @@ A small number of customers contribute a large percentage of total revenue.
 Product sales are concentrated among a few high-performing products.
 International demand is strongest across European countries.
 
+Since the Online Retail dataset did not contain product categories, country-level revenue analysis was performed to identify high-value regions.
+
 Business Recommendations
 Increase inventory before peak demand periods, especially during Q4.
 Focus marketing efforts on countries generating high revenue.
